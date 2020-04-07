@@ -43,3 +43,7 @@ npm run build
 # test the production build locally
 npm run serve
 ```
+
+## Web App Home Page
+
+! [Immagine della Home page] (https://github.com/iwanoisch/modenaDomicilio/src/assets/images/homepage.png)
