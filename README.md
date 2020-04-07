@@ -46,4 +46,4 @@ npm run serve
 
 ## Web App Home Page
 
-! [Immagine della Home page] (https://github.com/iwanoisch/modenaDomicilio/blob/master/src/assets/images/homepage.png)
+! [Immagine della Home page] (https://raw.githubusercontent.com/iwanoisch/modenaDomicilio/master/src/assets/images/homepage.png)
