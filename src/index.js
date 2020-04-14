@@ -17,7 +17,7 @@ import { Loader } from "./components/Loader";
 export const Action = createContext({});
 
 // stubs
-// import resultsMock from "./assets/formigineDomicilio.json";
+// import resultsMock from "./assets/modenaDomicilio.json";
 
 import SETTINGS from "./settings.json";
 

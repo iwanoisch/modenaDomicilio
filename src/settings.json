@@ -1,8 +1,8 @@
 {
    "PREACT_APP_CITY": "modena",
-   "PREACT_APP_DATA_SOURCE": "https://gist.githubusercontent.com/mantovanig/267ca5a46da0147feb3837b6bf2c3611/raw/FormigineDomicilio.json",
-   "PREACT_APP_DEV_NAME": "mantovanig",
-   "PREACT_APP_AUTHOR_NAME": "tomma5o",
-   "PREACT_APP_DEV_LINK": "https://mantovanig.it",
-   "PREACT_APP_AUTHOR_LINK": "https://tomma5o.com"
+   "PREACT_APP_DATA_SOURCE": "https://gist.githubusercontent.com/mantovanig/267ca5a46da0147feb3837b6bf2c3611/raw/modenadomicilio.json",
+   "PREACT_APP_DEV_NAME": "iwanoisch",
+   "PREACT_APP_AUTHOR_NAME": "mantovanig",
+   "PREACT_APP_DEV_LINK": "https://github.com/iwanoisch/",
+   "PREACT_APP_AUTHOR_LINK": "https://mantovanig.it"
 }
