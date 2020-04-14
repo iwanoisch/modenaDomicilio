@@ -1,0 +1,201 @@
+{
+   "gelaterie": {
+      "icon": "🍦",
+      "title": "Gelaterie",
+      "data": [
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         },
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         }
+      ]
+   },
+   "pizzerie": {
+      "icon": "🍕",
+      "title": "Pizzerie",
+      "data": [
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         },
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         }
+      ]
+   },
+   "forni": {
+      "icon": "🍞",
+      "title": "Forni",
+      "data": [
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         },
+         {
+            "name": " ",
+            "tel": "",
+            "note": ""
+         }
+      ]
+   },
+   "frutta-verdura": {
+      "icon": "🥬",
+      "title": "Frutta e Verdura",
+      "data": [
+         {
+            "name": " ",
+            "tel": "",
+            "note": ""
+         },
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         }
+      ]
+   },
+   "generi-alimentari": {
+      "icon": "🍖",
+      "title": "Generi alimentari",
+      "data": [
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         },
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         }
+      ]
+   },
+   "ristorazione": {
+      "icon": "🍽️",
+      "title": "Ristorazione",
+      "data": [
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         },
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         }
+      ]
+   },
+   "librerie": {
+      "icon": "📚",
+      "title": "Librerie",
+      "data": [
+         {
+            "name": "",
+            "tel": "",
+            "mail": "",
+            "note": ""
+         }
+      ]
+   },
+   "enoteche-birre": {
+      "icon": "🍾",
+      "title": "Enoteche e Birre",
+      "data": [
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         },
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         }
+      ]
+   },
+   "lavanderie": {
+      "icon": "👔",
+      "title": "Lavanderie",
+      "data": [
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         },
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         }
+      ]
+   },
+   "Supermercati": {
+      "icon": "🛒",
+      "data": []
+   },
+   "pasticcerie": {
+      "icon": "🍩",
+      "title": "Pasticcerie",
+      "data": [
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         },
+         {
+            "name": " ",
+            "tel": "",
+            "note": ""
+         }
+      ]
+   },
+   "prodotti-casa": {
+      "icon": "🧼",
+      "title": "Prodotti per la casa",
+      "data": [
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         },
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         }
+      ]
+   },
+   "negozi-animali": {
+      "icon": "🐶",
+      "title": "Negozi per animali",
+      "data": [
+         {
+            "name": "",
+            "tel": "",
+            "site": "",
+            "note": ""
+         }
+      ]
+   },
+   "fiorari": {
+      "icon": "💐",
+      "title": "Fiorai",
+      "data": [
+         {
+            "name": "",
+            "tel": "",
+            "note": ""
+         }
+      ]
+   }
+}
