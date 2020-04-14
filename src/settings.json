@@ -1,6 +1,6 @@
 {
    "PREACT_APP_CITY": "modena",
-   "PREACT_APP_DATA_SOURCE": "https://gist.githubusercontent.com/mantovanig/267ca5a46da0147feb3837b6bf2c3611/raw/modenadomicilio.json",
+   "PREACT_APP_DATA_SOURCE": "https://gist.githubusercontent.com/iwanoisch/0cfae0b20191ec369aafdd69de3fa12a/raw/ModenaDomicilio.json",
    "PREACT_APP_DEV_NAME": "iwanoisch",
    "PREACT_APP_AUTHOR_NAME": "mantovanig",
    "PREACT_APP_DEV_LINK": "https://github.com/iwanoisch/",

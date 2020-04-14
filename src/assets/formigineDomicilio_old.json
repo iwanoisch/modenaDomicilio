@@ -4,14 +4,19 @@
       "title": "Gelaterie",
       "data": [
          {
-            "name": "",
-            "tel": "",
+            "name": "Gelateria New Monique",
+            "tel": "3388981907",
+            "note": "Da Lun a Ven dalle 15 alle 19 - Sab e Dom dalle 11 alle 19. Cosnega su Formigine, Fiorano, Spezzano, Maranello, Pozza e Sassuolo."
+         },
+         {
+            "name": "Gelateria All Ice",
+            "tel": "3496993791",
             "note": ""
          },
          {
-            "name": "",
-            "tel": "",
-            "note": ""
+            "name": "Gelateria Ciao",
+            "tel": "059556709",
+            "note": "Sono state ricevute segnalazioni che il servizio non è disponibile"
          }
       ]
    },
@@ -20,13 +25,73 @@
       "title": "Pizzerie",
       "data": [
          {
-            "name": "",
-            "tel": "",
+            "name": "Pizzeria del Viale a Corlo",
+            "tel": "0595750301",
             "note": ""
          },
          {
-            "name": "",
-            "tel": "",
+            "name": "Pizzeria Picchio Rosso",
+            "tel": "0598678224",
+            "note": "anche pane"
+         },
+         {
+            "name": "Pizzeria La Vecchia Lira",
+            "tel": "3891061059",
+            "note": "(ex Big Ben) a Corlo"
+         },
+         {
+            "name": "Ristorante Pizzeria La Plaza",
+            "tel": "0596133907",
+            "note": ""
+         },
+         {
+            "name": "Pizzeria Rusticana",
+            "tel": "059571710",
+            "note": ""
+         },
+         {
+            "name": "Speedy Pizza",
+            "tel": "3939393914",
+            "note": ""
+         },
+         {
+            "name": "La piada di via Giardini",
+            "tel": "3339590319",
+            "note": ""
+         },
+         {
+            "name": "Pizzeria Piccadilly",
+            "tel": "3339590319",
+            "note": ""
+         },
+         {
+            "name": "Pizzeria la Mediterranea",
+            "tel": "059570037",
+            "note": ""
+         },
+         {
+            "name": "Pommarella Street Pizza",
+            "tel": "0597107270",
+            "note": ""
+         },
+         {
+            "name": "Pizzeria Nico",
+            "tel": "3663769149",
+            "note": ""
+         },
+         {
+            "name": "Ristorante Pizzeria Aquila Bianca",
+            "tel": "059552114",
+            "note": ""
+         },
+         {
+            "name": "Pizzeria La Lucciola",
+            "tel": "059556992",
+            "note": ""
+         },
+         {
+            "name": "Ristorante Pizzeria Vecchio Mulino",
+            "tel": "059557346",
             "note": ""
          }
       ]
@@ -36,13 +101,34 @@
       "title": "Forni",
       "data": [
          {
-            "name": "",
-            "tel": "",
+            "name": "Fornaio Mascaro Giovanni",
+            "tel": "3802457312",
             "note": ""
          },
          {
-            "name": " ",
-            "tel": "",
+            "name": "Forno Negrini",
+            "tel": "059552456",
+            "note": ""
+         },
+         {
+            "name": "Forno Forghieri di Via Picelli",
+            "tel": "059570516",
+            "note": ""
+         },
+         {
+            "name": "Il Paninaro (Il Forno da Antonio)",
+            "tel": "0597126121",
+            "note": ""
+         },
+         {
+            "name": "Panetteria San Vittorio",
+            "tel": "3282460941",
+            "note": ""
+         },
+         {
+            "name": "Forno Barbolini",
+            "tel": "059550462",
+            "site": "https://g.co/kgs/7G1D9f",
             "note": ""
          }
       ]
@@ -52,13 +138,34 @@
       "title": "Frutta e Verdura",
       "data": [
          {
-            "name": " ",
-            "tel": "",
+            "name": "Il ciliegio",
+            "tel": "3391716074",
             "note": ""
          },
          {
-            "name": "",
-            "tel": "",
+            "name": "Gusto e tradizione",
+            "tel": "3493620492",
+            "note": ""
+         },
+         {
+            "name": "Bottega del campo",
+            "tel": "3471674813",
+            "note": ""
+         },
+         {
+            "name": "Azienda agricola Zini Daniela a Formigine",
+            "tel": "3356147986",
+            "note": ""
+         },
+         {
+            "name": "Sapore unico",
+            "tel": "3703101996",
+            "note": ""
+         },
+         {
+            "name": "Accogli Cosimo",
+            "tel": "059555200",
+            "mail": "",
             "note": ""
          }
       ]
@@ -68,14 +175,41 @@
       "title": "Generi alimentari",
       "data": [
          {
-            "name": "",
-            "tel": "",
+            "name": "A&O (generi alimentari) a Colombaro",
+            "tel": "059553611",
             "note": ""
          },
          {
-            "name": "",
-            "tel": "",
+            "name": "Carni Magreta",
+            "tel": "059554543",
             "note": ""
+         },
+         {
+            "name": "Apicoltura Gianaroli",
+            "tel": "3339419012",
+            "note": ""
+         },
+         {
+            "name": "Salumificio Val Tiepido a Colombaro",
+            "tel": "059553523",
+            "note": ""
+         },
+         {
+            "name": "Azienda agricola Benedetti Bruno e F.llo a Casinalbo",
+            "tel": "3515246917",
+            "note": "prodotti caseari e vino prodotti in proprio"
+         },
+         {
+            "name": "Mr. Clod group",
+            "tel": "059574549",
+            "mail": "info@mrclodgroup.org",
+            "note": "Produzione e lavorazione carni fresche e salumi."
+         },
+         {
+            "name": "Buffagni Formaggi e C. Sas.",
+            "tel": "3473114417",
+            "mail": "",
+            "note": "Parmigiano Reggiano e formaggi vari"
          }
       ]
    },
@@ -84,13 +218,23 @@
       "title": "Ristorazione",
       "data": [
          {
-            "name": "",
-            "tel": "",
+            "name": "Bottega della Pasta a Formigine",
+            "tel": "059572257",
             "note": ""
          },
          {
-            "name": "",
-            "tel": "",
+            "name": "Le ricette di Nonna Maria a Corlo",
+            "tel": "0598753327",
+            "note": ""
+         },
+         {
+            "name": "Eric Organization Poke Bowl & Hamburger",
+            "tel": "3336715983",
+            "note": ""
+         },
+         {
+            "name": "Ristorazione Bertani",
+            "tel": "059512120",
             "note": ""
          }
       ]
@@ -100,9 +244,9 @@
       "title": "Librerie",
       "data": [
          {
-            "name": "",
-            "tel": "",
-            "mail": "",
+            "name": "Libreria Gilioli",
+            "tel": "059570165",
+            "mail": "info@libreriagilioli.com",
             "note": ""
          }
       ]
@@ -112,13 +256,13 @@
       "title": "Enoteche e Birre",
       "data": [
          {
-            "name": "",
-            "tel": "",
+            "name": "Cantina Sociale Formigine Pedemontana a Corlo",
+            "tel": "059558122",
             "note": ""
          },
          {
-            "name": "",
-            "tel": "",
+            "name": "Cantina Villa di Corlo",
+            "tel": "059 510736",
             "note": ""
          }
       ]
@@ -128,13 +272,23 @@
       "title": "Lavanderie",
       "data": [
          {
-            "name": "",
-            "tel": "",
+            "name": "Lavanderia express dry clean",
+            "tel": "3454713931",
+            "note": "ritiro e consegna a domicilio"
+         },
+         {
+            "name": "STIRLAV",
+            "tel": "393 8262109",
             "note": ""
          },
          {
-            "name": "",
-            "tel": "",
+            "name": "Lavanderia Candidus a Casinalbo",
+            "tel": "3479854539",
+            "note": ""
+         },
+         {
+            "name": "Lavanderia Green wash a Ubersetto",
+            "tel": "3922896344",
             "note": ""
          }
       ]
@@ -148,13 +302,18 @@
       "title": "Pasticcerie",
       "data": [
          {
-            "name": "",
-            "tel": "",
+            "name": "Pasticceria La Rocca",
+            "tel": "0596136478",
             "note": ""
          },
          {
-            "name": " ",
-            "tel": "",
+            "name": "Pasticceria Andrea",
+            "tel": "059554095",
+            "note": ""
+         },
+         {
+            "name": "Pasticceria Nappo",
+            "tel": "059551237",
             "note": ""
          }
       ]
@@ -164,14 +323,31 @@
       "title": "Prodotti per la casa",
       "data": [
          {
-            "name": "",
-            "tel": "",
+            "name": "KIKA",
+            "tel": "0536943903",
+            "note": "prodotti di detergenza casa e persona, cosmesi, profumeria"
+         },
+         {
+            "name": "Bricofer",
+            "tel": "335405990",
             "note": ""
          },
          {
-            "name": "",
+            "name": "Cooperativa Sociale Vagamondi",
             "tel": "",
-            "note": ""
+            "note": "Commercio equo-solidale a Formigine"
+         },
+         {
+            "name": "Ink Color di Mucciarelli Matteo",
+            "tel": "3286468524",
+            "site": "www.ink-color.it",
+            "note": "consegna a domicilio di cartucce e toner"
+         },
+         {
+            "name": "Affilatura Formiginese",
+            "tel": "3515206832",
+            "site": "",
+            "note": "alcool, gel mani, detergente antibatterico, guanti, copriscarpe, coprimaniche, camici, grembiuli, utensili da cucina"
          }
       ]
    },
@@ -180,8 +356,8 @@
       "title": "Negozi per animali",
       "data": [
          {
-            "name": "",
-            "tel": "",
+            "name": "CasaPet (alimenti per animali)",
+            "tel": "3891525980",
             "site": "",
             "note": ""
          }
@@ -192,8 +368,8 @@
       "title": "Fiorai",
       "data": [
          {
-            "name": "",
-            "tel": "",
+            "name": "Azienda Agricola Cavani Milena a Serramazzoni",
+            "tel": "3396231381",
             "note": ""
          }
       ]
