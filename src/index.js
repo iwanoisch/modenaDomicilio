@@ -8,6 +8,7 @@ import "tailwindcss/dist/tailwind.min.css";
 // Routes
 import Home from "./routes/home.js";
 import Form from "./routes/form.js";
+import FormSuccess from './routes/formSuccess';
 import Category from "./routes/category";
 
 // Components
@@ -153,6 +154,7 @@ export default class App extends Component {
                <Router onChange={this.handleRoute}>
                   <Home path="/" results={results} />
                   <Form path="/form" />
+                  <FormSuccess path="/form/success" />
                   <Category path="categorie/:category" results={results} />
                </Router>
             </div>
