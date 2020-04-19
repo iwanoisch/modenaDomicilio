@@ -1,7 +1,7 @@
 export default function Form() {
    return (
       <div>
-         <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/form/success">
+         <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
             <p>
                <input type="hidden" name="form-name" value="contact" />
             </p>
