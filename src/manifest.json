@@ -1,6 +1,6 @@
 {
   "name": "Modena a Domicilio",
-  "short_name": "Modena Domicilio",
+  "short_name": "ModenaDomicilio",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
